@@ -24,7 +24,7 @@
 .container-right {
     display: inline-block;
     background-color: rgba(93, 93, 125, 0.16);
-    height: 100vh;
+    height: 100vw;
     width: 40%;
     position: absolute;
 }
